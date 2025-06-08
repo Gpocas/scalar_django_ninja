@@ -22,8 +22,8 @@ dependencies = [
 ]
 
 [project.urls]
-repository = "https://github.com/Gpocas/scalar-django-ninja"
-"Bug Tracker" = "https://github.com/Gpocas/scalar-django-ninja/issues"
+repository = "https://github.com/Gpocas/scalar_django_ninja"
+"Bug Tracker" = "https://github.com/Gpocas/scalar_django_ninja/issues"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
