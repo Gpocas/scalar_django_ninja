@@ -1,7 +1,12 @@
 # Scalar API Reference for Django Ninja
 
-[![Discord](https://img.shields.io/discord/1135330207960678410?style=flat&color=5865F2)](https://discord.gg/scalar)
+> [!NOTE]
+> Disclaimer 📢
+>
+> This is a fork of the original scalar docs implementation for django-ninja, if you are looking for the original version, check the link below
 
+[official repository](https://github.com/scalar/scalar/blob/main/integrations/django-ninja/README.md)
+## Sumary
 The easiest way to render a modern and beautiful API reference based on your Django Ninja OpenAPI document.
 
 ![django-ninja](ninja.png)
