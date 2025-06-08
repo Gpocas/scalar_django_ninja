@@ -14,7 +14,7 @@ The easiest way to render a modern and beautiful API reference based on your Dja
 ## Installation
 
 ```bash
-pip install git+https://github.com/scalar/scalar.git#subdirectory=integrations/django-ninja
+pip install scalar-django-ninja
 ```
 
 ## Usage
