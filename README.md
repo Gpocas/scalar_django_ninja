@@ -6,7 +6,7 @@
 > This is a fork of the original scalar docs implementation for django-ninja, if you are looking for the original version, check the link below
 
 [official repository](https://github.com/scalar/scalar/blob/main/integrations/django-ninja/README.md)
-## Sumary
+## Summary
 The easiest way to render a modern and beautiful API reference based on your Django Ninja OpenAPI document.
 
 ![django-ninja](ninja.png)
